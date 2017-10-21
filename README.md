@@ -1,4 +1,2 @@
-# hello-world
-
-the start of github
-test again
+#hello world
+how to use this software
