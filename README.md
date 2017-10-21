@@ -1,1 +1,2 @@
-# hello-world
+#hello world
+how to use this software
